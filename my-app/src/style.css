@@ -1,0 +1,87 @@
+.ui.redBanner.segment {
+  background-color: red;
+  color: white;
+  text-align: center;
+  font-size: medium;
+  height: 50px;
+}
+
+.grad-background {
+  background: url('https://ra4556ybfb-flywheel.netdna-ssl.com/wp-content/uploads/2018/12/IMG_0328-min-1.jpg');
+  background-size: cover;
+  height: 600px;
+  width: 1519px;
+}
+
+.ui.borderless.topmenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+.ui.borderless.middlemenu.menu {
+  box-shadow: none;
+  border: none;
+}
+
+
+.ui.header.h1 {
+  color: #00b5b0;
+  font-family: 'Helvetica', 'sans-serif';
+  font-weight: bold;
+  font-size: 75px;
+}
+
+.ui.header.h2 {
+  color: white;
+  font-family: 'Brush Script MT', 'sans-serif';
+  font-size: 50px;
+}
+
+.ui.horizontal.divider {
+  border: none;
+  height: 12px;
+  background: #00b5b0;
+  color: transparent;
+}
+
+.caption {
+  font-family: 'Helvetica', 'sans-serif';
+  font-size: 25px;
+  color: white;
+}
+
+.secondLine {
+  font-family: 'Helvetica', 'sans-serif';
+  font-size: 25px;
+  color: white;
+
+}
+
+.footer-background {
+  background: url('https://ra4556ybfb-flywheel.netdna-ssl.com/wp-content/uploads/2018/12/DejaVu-background-footer.jpg');
+  background-size: cover;
+  height: 487.6px;
+  width: 1519.2px;
+  padding-top: 75px;
+  padding-bottom: 75px;
+}
+
+.ui.header.Location {
+  color: white;
+  margin: 0 0 22px;
+  font-weight: 600;
+  font-size: 15px;
+  padding-bottom: 30px;
+}
+
+.logo {
+  margin-left: 15px;
+  margin-top: 15px;
+}
+
+.icons {
+  color: #00b5b0;
+}
+
+
+
